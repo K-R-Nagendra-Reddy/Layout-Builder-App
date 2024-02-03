@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.layout-element {
+  background-color: #475569;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 30px;
+}
+.color {
+  color: #ffffff;
+}
